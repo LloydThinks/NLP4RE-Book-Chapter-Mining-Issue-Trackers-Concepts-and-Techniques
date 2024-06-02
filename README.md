@@ -4,9 +4,9 @@ These artefacts accompany the "Mining Issue Trackers: Concepts and Techniques" c
 
 ## Author and Article Details
 
-Lloyd Montgomery - lloyd.montgomery@uni-hamburg.de
-Dr. Clara Lüders - clara.marie.lueders@gmail.com
-Prof. Dr. Walid Maalej - walid.maalej@uni-hamburg.de
+- Lloyd Montgomery - lloyd.montgomery@uni-hamburg.de
+- Dr. Clara Lüders - clara.marie.lueders@gmail.com
+- Prof. Dr. Walid Maalej - walid.maalej@uni-hamburg.de
 
 All authors are affiliated with the University of Hamburg in Hamburg, Germany.
 
